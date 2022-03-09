@@ -4,7 +4,7 @@
   
   
   <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://www.notion.so/6e2c8bbcb0684750a1a2b885bae72500"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://hypnotic-goal-d3c.notion.site/6e2c8bbcb0684750a1a2b885bae72500"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   
   ---
   
