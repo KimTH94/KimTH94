@@ -1,25 +1,35 @@
 <div align="center">
  
 ### 👨‍💻 Back-End Developer
-  
-  
-  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href="https://hypnotic-goal-d3c.notion.site/6e2c8bbcb0684750a1a2b885bae72500"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-  
-  ---
-  
-  <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
- 
-  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Tistory-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+  <a href="https://hypnotic-goal-d3c.notion.site/6e2c8bbcb0684750a1a2b885bae72500"><img src="https://img.shields.io/badge/소개서-f0f0f0?style=flat-square&logo=notion&logoColor=black"/></a>
+ <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
+
+#### ⛏️ Skill
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+    
   <br>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+  
+
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  
+  <br>
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+
+
+  
+#### 🌱 Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcc9827)](https://solved.ac/kcc9827) 
  
 </div>
 
 
 
 
-ㄱ
+
 
 <!--
 **KimTH94/KimTH94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
